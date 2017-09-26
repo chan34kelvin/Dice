@@ -1,3 +1,4 @@
+//
 int r1;
 Die diu= new Die(150,150);
 void setup()
